@@ -28,7 +28,7 @@ url: "https://j-devu.github.io" # the base hostname & protocol for your site, e.
 github_username:  J-DevU
 linkedin_username: [Jenny Lam][Jenny-Lam]
 
-[Jenny-Lam]: linkedin.com/in/jennylam-x
+[Jenny-Lam]: https://linkedin.com/in/jennylam-x
 
 # Build settings
 theme: minima
