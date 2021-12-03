@@ -9,8 +9,8 @@ DevU is a professional development and career preparation blog to help people (l
 
 # About Me
 
-* Education: 2022 BS, Business Administration in Technology & Operations Management & minor in Computer Information Systems
-* Career Interests: Supply Chain, Engineering, and Data Analytics within Aerospace Industry
+* Education: 2022 BS, Business Administration in Technology & Operations Management and minor in Computer Information Systems
+* Career Interests: Supply Chain, Engineering, and Data Analytics within the Technology and Aerospace Industry
 * Microsoft Excel advocate!
 
 *Here to **Dev**elop **U**!*
