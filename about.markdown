@@ -9,6 +9,6 @@ DevU is a professional development and career preparation blog to help people (l
 
 # About Me
 
-I'm Jenny. My interest ranges in technology and the aerospace industry in the areas of supply chain, engineering, and data analytics.
+* I'm Jenny. My interest ranges in technology and the aerospace industry in the areas of supply chain, engineering, and data analytics.
 
 *Here to **Dev**elop **U**!*
