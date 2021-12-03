@@ -9,6 +9,8 @@ DevU is a professional development and career preparation blog to help people (l
 
 # About Me
 
-* I'm Jenny. My interest ranges in technology and the aerospace industry in the areas of supply chain, engineering, and data analytics.
+* In-Progress: BS: Business Administration, Technology & Operations Management + Minor: Computer Information Systems
+* Career Field Interests: Supply Chain, Engineering, and Data Analytics
+* Microsoft Excel advocate!
 
 *Here to **Dev**elop **U**!*
