@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Welcome to DevU!
+title: About
 permalink: /about/
 ---
+# Welcome to DevU!
 
 DevU is a professional development and career preparation blog to help people (like you!) be aware and build your foundation knowledge to get your foot in the door, ultimately, be one step closer to your dream career!
 
